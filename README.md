@@ -1,50 +1,59 @@
-# 💻 Dayam Ospina Beltrán | Desarrollador en Formación
+# 👋 ¡Hola! Soy Dayam Ospina Beltrán  
 
-¡Hola! Soy un estudiante apasionado de **Análisis y Desarrollo de Software** con bases sólidas en programación, desarrollo web, bases de datos y buenas prácticas de código.  
-Me gusta crear soluciones prácticas y eficientes utilizando tecnologías modernas y manteniendo un aprendizaje constante.
+💻 **Estudiante de Análisis y Desarrollo de Software**  
+⚽ **Líder Deportivo** | 🏅 Reconocido por el INDER  
+📍 **Medellín, Colombia**  
+
+---
+
+## 🚀 Sobre mí  
+- 📚 Actualmente estudiando **Análisis y Desarrollo de Software**  
+- 🏆 Reconocimientos por **liderazgo, colaboración y compromiso**  
+- 🖥️ Apasionado por el **desarrollo web, aplicaciones y automatización**  
+- 📈 En constante aprendizaje y mejora de habilidades como programador  
+- ⚡ También disfruto de la música de **Kenia OS** y el deporte 🏐  
 
 ---
 
 ## 🧠 Conocimientos Clave
 
-- **Introducción a la Programación y Lógica**  
-  Dominio de conceptos básicos, estructuras de control, algoritmos y estructuras de datos.
-
+- **Lógica y Fundamentos de Programación**  
 - **Programación Orientada a Objetos (POO)**  
-  Diseño de clases, herencia, encapsulamiento y polimorfismo.
-
-- **Bases de Datos**  
-  Modelado y gestión de bases de datos relacionales (SQL) y no relacionales (NoSQL).
-
-- **Análisis y Diseño de Sistemas**  
-  Uso de diagramas UML y principios de arquitectura limpia.
-
-- **Desarrollo Web**  
-  Tecnologías como HTML, CSS, JavaScript, PHP y frameworks frontend/backend.
-
-- **Desarrollo de Aplicaciones**  
-  Creación de aplicaciones funcionales aplicando buenas prácticas de programación.
-
-- **Control de Versiones**  
-  Experiencia en el uso de Git y GitHub para la gestión de proyectos.
+- **Bases de Datos (SQL y NoSQL)**  
+- **Desarrollo Web (Frontend y Backend)**  
+- **Control de Versiones con Git y GitHub**  
+- **Proyectos Académicos y Personales**  
 
 ---
 
-## 🛠 Tecnologías y Lenguajes
+## 🛠️ Tecnologías y Herramientas  
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Dayam's GitHub stats](https://github-readme-stats.vercel.app/api?username=userdayis&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=userdayis&layout=compact&theme=tokyonight)
+![Dayam's GitHub stats](https://github-readme-stats.vercel.app/api?username=userdayis&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=userdayis&layout=compact&theme=tokyonight&langs_count=8)
+
+---
+
+## 🌐 Conéctate conmigo  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/userdayis)  
+[![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ospinadayam6@gmail.com) 
+
+---
+
+✨ *"La tecnología es la herramienta, la pasión es el motor."* ✨
+
 
 ---
 
