@@ -14,7 +14,7 @@ Me interesa especialmente el **desarrollo web, backend, bases de datos y automat
 
 * 🎓 Estudiante de **Análisis y Desarrollo de Software**
 * 💻 En formación como **desarrollador de software**
-* 🧠 Interés en **backend, desarrollo web y bases de datos**
+* 🧠 Interés en **backend, frontend, desarrollo web y bases de datos**
 * 🚀 Desarrollo de proyectos académicos y personales
 * 📚 En constante aprendizaje y mejora de mis habilidades
 * 🤝 Habilidades en comunicación, liderazgo, pensamiento crítico y trabajo en equipo
